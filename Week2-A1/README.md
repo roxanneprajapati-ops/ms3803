@@ -32,6 +32,7 @@ The following steps were completed:
 
 ### 1. Load the Dataset
 All CSV files inside the `dataset/` folder were loaded and combined into a single DataFrame using Pandas.
+
 ![alt text](image.png)
 
 ### 2. Display First 5 Rows
@@ -42,14 +43,18 @@ Used `df.head()` to preview the dataset and understand its structure.
 ### 3. Identify Column Names and Data Types
 Used `df.info()` and `df.dtypes` to:
 - List all columns
+
 ![alt text](image-2.png)
+
 - Identify data types (numeric or categorical)
+
 ![alt text](image-4.png)
 
 ### 4. Count Rows and Columns
 Used `df.shape` to determine:
 - Total number of rows
 - Total number of columns
+
 ![alt text](image-3.png)
 ---
 
