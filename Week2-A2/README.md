@@ -1,6 +1,6 @@
 # Beijing Multi-Site Air Quality Analysis
 
-## 📊 Overview
+## Overview
 This project analyzes the Beijing Multi-Site Air Quality dataset. The goal is to understand the dataset structure, clean the data, and perform statistical and visual analysis.
 
 ---
