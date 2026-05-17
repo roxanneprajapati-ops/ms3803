@@ -44,7 +44,11 @@ The random state value `42` is used so the result will stay same every time the 
 The model achieved high classification accuracy on the testing dataset.
 
 <p align="center">
-  <img src="iris_scatter_plot.png" width="70%" alt="Iris Dataset Visualization">
+  <img src="petal_scatter_plot.png" width="70%" alt="Petal Scatter Plot">
+</p>
+
+<p align="center">
+  <img src="sepal_scatter_plot.png" width="70%" alt="Sepal Scatter Plot">
 </p>
 
 <p align="center">
