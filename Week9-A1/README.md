@@ -95,7 +95,7 @@ The Elbow Method measured inertia (Within-Cluster Sum of Squares) for different 
 
 The graph showed a substantial reduction in inertia up to K=4, after which improvements became less significant.
 
-![alt text](fitness_analysis_assets/elbow.png)
+![alt text](output/elbow.png)
 
 #### Silhouette Analysis
 
@@ -107,7 +107,7 @@ The highest score occurred at:
 K = 4
 ```
 
-![alt text](fitness_analysis_assets/silhouette.png)
+![alt text](output/silhouette.png)
 
 
 ### Final Cluster Selection
@@ -122,7 +122,7 @@ K = 4
 
 ### PCA Cluster
 
-![alt text](fitness_analysis_assets/pca_clusters.png)
+![alt text](output/pca_clusters.png)
 
 - Four distinct user segments were identified.
 - Users within the same cluster exhibit similar fitness behaviours.
@@ -130,14 +130,14 @@ K = 4
 - The clustering model successfully separated users into meaningful groups.
 
 ### Cluster Profile
-![alt text](fitness_analysis_assets/profile.png)
+![alt text](output/profile.png)
 - Cluster 2 contains the most active users with high workouts, longer sessions, and more daily steps.
 - Cluster 0 shows the lowest activity levels and engagement.
 Cluster 3 contains older users who exercise frequently.
 - User behaviour varies significantly across the four clusters.
 
 ### Churn Rate by Cluster
-![alt text](fitness_analysis_assets/churn.png)
+![alt text](output/churn.png)
 - Cluster 0 has the highest churn rate (~30%).
 - Clusters 2 and 3 have the lowest churn rates (~5–6%).
 - More active users tend to have lower churn.

@@ -1,19 +1,3 @@
-"""
-Fitness App User Data - Cleaning and Clustering Analysis
-
-Input file expected in the same folder:
-    Fitness_App_User_Data.xlsx
-
-Outputs created:
-    Fitness_App_User_Data_Cleaned_Clustered.csv
-    Fitness_App_Cluster_Summary.csv
-    fitness_analysis_assets/elbow.png
-    fitness_analysis_assets/silhouette.png
-    fitness_analysis_assets/pca_clusters.png
-    fitness_analysis_assets/profile.png
-    fitness_analysis_assets/churn.png
-"""
-
 from pathlib import Path
 import warnings
 
@@ -31,7 +15,7 @@ warnings.filterwarnings("ignore")
 
 BASE_DIR = Path(__file__).resolve().parent
 INPUT_FILE = BASE_DIR / "Fitness_App_User_Data.xlsx"
-OUTPUT_DIR = BASE_DIR / "fitness_analysis_assets"
+OUTPUT_DIR = BASE_DIR / "output"
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 
