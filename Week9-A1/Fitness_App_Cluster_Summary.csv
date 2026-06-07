@@ -1,0 +1,5 @@
+Cluster,Users,Avg_Age,Avg_Workouts_per_Week,Avg_Session_Duration_Min,Avg_Steps_per_Day,Churn_Rate
+0,60,33.23,2.02,47.32,4713.35,30.0
+1,48,46.29,1.1,41.23,11363.77,10.42
+2,51,28.12,4.65,51.0,10945.0,5.88
+3,40,51.42,4.78,34.26,8164.4,5.0
