@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project performs data cleaning and clustering analysis on a Fitness App User dataset containing 200 user records. The objective is to identify groups of users with similar fitness behaviours using machine learning techniques and generate insights that can support user engagement and retention strategies.
+This activity performs data cleaning and clustering analysis on a Fitness App User dataset containing 200 user records. The objective is to identify groups of users with similar fitness behaviours using machine learning techniques and generate insights that can support user engagement and retention strategies.
 
-The project includes:
+The activity includes:
 
 * Data cleaning and preprocessing
 * Feature selection
