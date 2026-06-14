@@ -66,8 +66,7 @@ The trained models were used to predict salaries for:
 | Model                 |      MAE |        MSE |     RMSE |
 | --------------------- | -------: | ---------: | -------: |
 | Polynomial Regression | 5,435.01 | 37,704,200 | 6,140.37 |
-
-### Model Comparison Result
+| Linear Regression     | 5,802.51 | 39,318,711 | 6,270.46 |
 
 Polynomial Regression performed better than Linear Regression based on RMSE, indicating that it produced more accurate predictions for this dataset.
 
