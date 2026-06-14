@@ -1,7 +1,0 @@
-Site_ID,Date,Temperature_C,pH,Dissolved_Oxygen_mg_L,Species,Count,Average_Size_cm
-AV-1,2023-10-25,15.2,7.8,8.5,Brown Trout,50.0,32.0
-AV-2,2023-10-25,14.8,7.5,7.9,Shortfin Eel,75.0,45.0
-AV-3,2023-10-25,13.6,7.3,6.8,Freshwater Shrimp,120.0,2.0
-AV-1,2023-11-15,12.4,7.6,8.2,Rainbow Trout,35.0,28.0
-AV-2,2023-11-15,11.9,7.4,7.7,Kokopu,40.0,18.0
-AV-3,2023-11-15,10.8,7.2,6.2,No fish observed,0.0,0.0

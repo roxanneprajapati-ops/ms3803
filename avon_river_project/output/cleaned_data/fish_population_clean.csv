@@ -1,0 +1,71 @@
+Site,Date,Species,Count,AvgSize
+AV-1,2023-11-06,Brown Trout,12,18.3
+AV-2,2023-11-02,Shortfin Eel,7,42.1
+AV-3,2023-10-21,Inanga,25,7.4
+AV-1,2023-11-01,Longfin Eel,6,38.9
+AV-2,2023-10-14,Brown Trout,9,17.0
+AV-3,2023-11-10,Inanga,22,8.1
+AV-1,2023-10-15,Shortfin Eel,5,40.3
+AV-3,2023-11-12,Inanga,30,6.9
+AV-2,2023-11-08,Brown Trout,10,19.5
+AV-1,2023-11-13,Inanga,18,8.2
+AV-3,2023-10-25,Longfin Eel,4,44.0
+AV-2,2023-10-18,Shortfin Eel,8,39.7
+AV-1,2023-10-11,Inanga,20,7.5
+AV-2,2023-10-20,Brown Trout,11,18.1
+AV-3,2023-11-14,Inanga,28,7.3
+AV-2,2023-10-17,Longfin Eel,3,41.9
+AV-1,2023-10-22,Shortfin Eel,4,40.0
+AV-3,2023-10-27,Inanga,26,7.6
+AV-2,2023-11-03,Inanga,19,8.0
+AV-2,2023-10-30,Brown Trout,9,18.4
+AV-1,2023-10-29,Brown Trout,13,17.8
+AV-3,2023-11-09,Longfin Eel,5,43.2
+AV-2,2023-10-23,Inanga,21,7.7
+AV-1,2023-10-12,Shortfin Eel,7,39.5
+AV-3,2023-10-30,Brown Trout,10,17.3
+AV-2,2023-11-05,Inanga,24,8.5
+AV-1,2023-10-27,Longfin Eel,6,40.7
+AV-2,2023-10-31,Inanga,15,7.9
+AV-3,2023-10-11,Brown Trout,9,18.2
+AV-2,2023-10-26,Shortfin Eel,6,41.0
+AV-1,2023-11-04,Inanga,23,7.2
+AV-3,2023-11-15,Brown Trout,12,18.7
+AV-2,2023-10-09,Longfin Eel,5,43.6
+AV-3,2023-11-08,Shortfin Eel,8,40.1
+AV-1,2023-11-10,Inanga,27,7.8
+AV-2,2023-11-06,Brown Trout,10,18.0
+AV-3,2023-10-31,Inanga,25,7.6
+AV-2,2023-11-12,Shortfin Eel,6,40.4
+AV-1,2023-10-20,Longfin Eel,4,42.5
+AV-2,2023-11-14,Inanga,20,7.3
+AV-3,2023-11-01,Brown Trout,11,17.9
+AV-1,2023-10-08,Shortfin Eel,3,38.8
+AV-2,2023-10-24,Unknown (possible Inanga),26,8.1
+AV-3,2023-10-13,Longfin Eel,7,42.7
+AV-1,2023-10-07,Inanga,22,7.1
+AV-3,2023-10-29,Shortfin Eel,6,41.6
+AV-1,2023-10-24,Longfin Eel,5,43.0
+AV-2,2023-11-07,Inanga,18,7.4
+AV-1,2023-10-06,Brown Trout,10,18.5
+AV-3,2023-11-06,Inanga,24,8.3
+AV-2,2023-12-07,Longfin Eel,11,44.9
+AV-2,2023-12-14,Longfin Eel,19,44.9
+AV-1,2023-12-05,Longfin Eel,10,41.7
+AV-3,2023-12-23,Inanga,20,8.4
+AV-2,2023-12-19,Brown Trout,20,19.4
+AV-2,2023-12-13,Inanga,6,7.9
+AV-3,2023-12-20,Longfin Eel,12,42.4
+AV-3,2023-12-07,Inanga,16,8.0
+AV-1,2023-12-28,Brown Trout,3,16.9
+AV-3,2023-12-15,Shortfin Eel,5,39.6
+AV-3,2023-12-07,Brown Trout,19,17.5
+AV-1,2023-12-26,Inanga,15,6.9
+AV-2,2023-12-15,Inanga,3,7.2
+AV-2,2023-12-11,Brown Trout,17,18.7
+AV-3,2023-12-04,Longfin Eel,7,41.3
+AV-3,2023-12-29,Brown Trout,20,16.9
+AV-3,2023-12-19,Inanga,5,7.1
+AV-2,2023-12-18,Longfin Eel,16,44.7
+AV-3,2023-12-22,Brown Trout,22,16.6
+AV-3,2023-12-24,Brown Trout,7,17.2
