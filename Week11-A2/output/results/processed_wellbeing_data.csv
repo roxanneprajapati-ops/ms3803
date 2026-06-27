@@ -1,0 +1,6 @@
+Year,Value,Data_Type,Time_Index,Lag_1
+2014,7.8,Original,0,7.8
+2015,7.8,Interpolated,1,7.8
+2016,7.8,Original,2,7.8
+2017,7.75,Interpolated,3,7.8
+2018,7.7,Original,4,7.75

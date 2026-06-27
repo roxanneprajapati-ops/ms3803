@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1 Score,CV Accuracy Mean,CV Accuracy Std
+Random Forest,0.9103,0.9148,0.9103,0.9101,0.9265,0.0624
+SVM (RBF),0.9034,0.9147,0.9034,0.9026,0.9188,0.039
+KNN (k=5),0.7862,0.8322,0.7862,0.7762,0.7793,0.1154

@@ -1,0 +1,28 @@
+{
+  "training_rows": 258,
+  "test_rows": 145,
+  "total_rows": 403,
+  "features": [
+    "STG",
+    "SCG",
+    "STR",
+    "LPR",
+    "PEG"
+  ],
+  "target": "UNS",
+  "class_counts_all_data": {
+    "low": 129,
+    "middle": 122,
+    "high": 102,
+    "very_low": 50
+  },
+  "missing_values_all_data": {
+    "STG": 0,
+    "SCG": 0,
+    "STR": 0,
+    "LPR": 0,
+    "PEG": 0,
+    "UNS": 0
+  },
+  "duplicate_rows_all_data": 0
+}

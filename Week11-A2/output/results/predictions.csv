@@ -1,0 +1,6 @@
+Year,Actual_Value,Model,Predicted_Value
+2018,7.7,Linear Regression,7.75
+2018,7.7,XGBoost,7.7606
+2018,7.7,ANN,7.7581
+2018,7.7,LSTM,7.7658
+2018,7.7,ARIMA,7.75

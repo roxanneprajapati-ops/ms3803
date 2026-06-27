@@ -1,0 +1,7 @@
+{
+  "best_classification_model": "Random Forest",
+  "best_accuracy": 0.9103,
+  "best_f1_score": 0.9101,
+  "best_k_by_silhouette": 5,
+  "best_silhouette_score": 0.1827
+}
