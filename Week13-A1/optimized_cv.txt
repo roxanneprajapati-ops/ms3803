@@ -1,0 +1,55 @@
+This improved CV is designed to be ATS-friendly, replacing the outdated "Objective" with a "Profile Summary" and transforming passive tasks into achievement-oriented bullet points.
+
+***
+
+IM A. SAMPLE VIII
+Omaha, Nebraska 68134 | (402) 493-1234 | imasample8@xxx.com
+[Optional: LinkedIn Profile Link] | [Optional: Portfolio/GitHub Link]
+
+PROFILE SUMMARY
+Detail-oriented Information Systems professional with a Bachelor of Science in Web-based Networking and hands-on experience in systems administration and IT support. Proven track record of success during a high-impact internship at Union Pacific Railroad, specializing in LAN configuration, hardware/software troubleshooting, and database management. Strong academic background with a 3.86 GPA and expertise across multiple programming languages, including Java, C++, and SQL.
+
+KEY SKILLS
+- Systems & Networking: UNIX/Linux, Windows Server environments, LAN/WAN Installation, Network Configuration, Systems Administration.
+- Programming & Web: Java, C, C++, Visual Basic, ASP.NET, HTML, XML.
+- Database Management: Relational Databases, SQL, PL/SQL, MS Access.
+- Technical Support: Hardware/Software Installation, Troubleshooting, Help Desk Operations, End-User Training.
+- Tools: MS Project, MS Office Suite (Word, Excel, PowerPoint, Outlook).
+
+PROFESSIONAL EXPERIENCE
+
+Union Pacific Railroad | Omaha, NE
+*Computer Support Technician / Intern* | June 20xx – August 20xx
+- Managed systems administration and configuration tasks within UNIX and Windows environments to ensure 24/7 operational stability.
+- Deployed and maintained Local Area Networks (LAN), integrating Novell and Windows systems to support seamless enterprise connectivity.
+- Resolved complex technical issues for end-users via the Help Desk, consistently meeting service level agreements (SLAs) and improving user uptime.
+- Developed and refined the department’s website, collaborating on design and front-end implementation to improve information accessibility.
+- Administered corporate email systems and internet applications, ensuring secure and efficient communication channels.
+
+Bellevue University | Bellevue, NE
+*Computer Lab Assistant* | 20xx – 20xx
+- Provided technical guidance to a diverse student body on the effective use of hardware and software applications.
+- Troubleshot workstation errors and peripheral issues to maintain a high-functioning lab environment.
+- Educated users on best practices for data management and software navigation.
+
+EDUCATION
+
+Bellevue University | Bellevue, NE
+*Bachelor of Science in Computer Information Systems – Web-based Networking*
+- Status: In Progress (Expected Graduation: January 20xx)
+- Honors: Dean’s Scholar; GPA: 3.86/4.00
+
+Metropolitan Community College | Omaha, NE
+*Associate of Applied Science in Management Information Systems*
+- GPA: 3.45/4.00
+
+PROJECTS & COLLEGIATE LEADERSHIP
+
+Contributor, Bellevue University Computer Lab Newsletter
+- Authored technical articles and updates regarding lab software upgrades and cybersecurity tips for the campus community.
+
+Student-Athlete, Varsity Baseball Team | Bellevue University
+- Balanced rigorous academic coursework in Information Systems with a full-time athletic schedule, demonstrating exceptional time management and teamwork.
+
+CERTIFICATIONS
+- [Candidate: List any specific certifications here, such as CompTIA A+, Network+, or Cisco CCNA, if applicable.]
