@@ -134,7 +134,7 @@ def analyze_cv(cv_text):
                 "temperature": 0.7,
                 "top_p": 0.9,
                 "top_k": 40,
-                "max_output_tokens": 2000,
+                "max_output_tokens": 10000,
         }
     )
 
